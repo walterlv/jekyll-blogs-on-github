@@ -1,8 +1,8 @@
 ﻿<Application
-    x:Class="JGBlogs.App"
+    x:Class="Walterlv.JGBlogs.App"
     xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-    xmlns:local="using:JGBlogs"
+    xmlns:local="using:Walterlv.JGBlogs"
     RequestedTheme="Light">
 
 </Application>
